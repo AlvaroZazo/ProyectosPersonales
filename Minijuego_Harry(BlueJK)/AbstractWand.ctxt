@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AbstractWand
+comment0.text=\r\n\ Abstract\ class\ Wand\ -\ Class\ that\ allows\ the\ character\ carrying\ a\ Wand\ \r\n\ object\ to\ generate\ his\ offensive\ and\ defensive\ points\ for\ his\ duels\r\n\ \r\n\ @author\:\ CAP\r\n\ Date\:\ 3/1/2020\r\n
+comment1.params=Wand_name
+comment1.target=AbstractWand(java.lang.String)
+comment1.text=\r\n\ Wand\ Class\ Builder\r\n\ \r\n\ @param\ Wand_name\ Wand\ name\r\n
+comment2.params=Wand_name
+comment2.target=void\ setWand_name(java.lang.String)
+comment2.text=\r\n\ Wand_name\ atribute\ setter\ method\r\n\ \r\n\ @param\ Wand_name\ Wand\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ getWand_name()
+comment3.text=\r\n\ Wand_name\ atribute\ getter\ method\r\n\ \r\n\ @return\ Wand\ name\r\n
+comment4.params=w
+comment4.target=int\ compareTo(Wand)
+comment4.text=\r\n\ CompareTo\ method\ that\ compares\ wands\r\n\ \r\n\ @param\ w\ Wand\ to\ Compare\r\n\ @return\ a\ negative\ integer,\ zero,\ or\ a\ positive\ integer\ as\ this\ Wand\r\n\ is\ less\ than,\ equal\ to,\ or\ greater\ than\ the\ specified\ Wand.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Method\ that\ shows\ wand\ data\r\n\ \r\n\ @return\ the\ data\ of\ the\ wand\r\n
+numComments=6

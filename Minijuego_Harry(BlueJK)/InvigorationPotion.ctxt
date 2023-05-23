@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InvigorationPotion
+comment0.text=\r\n\ The\ class\ represents\ the\ type\ of\ Invigoration\ Potion.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=c\ potion_name
+comment1.target=InvigorationPotion(Character,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ method\ of\ the\ InvigorationPotion\ class\r\n\ \r\n\ @param\ c\ Character\ to\ apply\ the\ potion\ to\r\n\ @param\ potion_name\ Potion\ name\r\n
+comment2.params=
+comment2.target=double\ getDefensive()
+comment2.text=\r\n\ Method\ that\ returns\ the\ character's\ defensive\ points\r\n\ \r\n\ @return\ the\ character's\ defensive\ points\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FelixFelicisPotion
+comment0.text=\r\n\ The\ class\ represents\ the\ type\ of\ FelixFelicis\ Potion.\r\n\ \r\n\ @author\ (CAP)\ \r\n\ @version\ (1.3.5)\r\n
+comment1.params=c\ potion_name
+comment1.target=FelixFelicisPotion(Character,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ method\ of\ the\ FelixFelicisPotion\ class\r\n\ \r\n\ @param\ c\ Character\ to\ apply\ the\ potion\ to\r\n\ @param\ potion_name\ Potion\ name\r\n
+comment2.params=
+comment2.target=double\ getOffensive()
+comment2.text=\r\n\ Method\ that\ returns\ the\ character's\ offensive\ points\r\n\ \r\n\ @return\ the\ character's\ offensive\ points\r\n
+numComments=3

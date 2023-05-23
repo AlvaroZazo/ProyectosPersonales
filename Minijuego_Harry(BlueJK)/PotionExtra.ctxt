@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PotionExtra
+comment0.text=\r\n\ Abstract\ class\ PotionExtra\ -\ This\ class\ represents\ the\ potion\ that\ \r\n\ a\ character\ can\ take.\r\n\ This\ class\ also\ allows\ you\ to\ use\ the\ decorator\ design\ pattern\r\n\ \r\n\ @author\:\ CAP\r\n\ Date\:\ 3/1/2020\r\n
+comment1.params=c\ potion_name
+comment1.target=PotionExtra(Character,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ method\ of\ the\ PotionExtra\ class\r\n\ \r\n\ @param\ c\ Character\ to\ apply\ the\ potion\ to\r\n\ @param\ potion_name\ Potion\ name\r\n
+comment2.params=
+comment2.target=double\ getDefensive()
+comment2.text=\r\n\ Method\ that\ returns\ the\ character's\ defensive\ points\r\n\ \r\n\ @return\ the\ character's\ defensive\ points\r\n
+comment3.params=
+comment3.target=double\ getOffensive()
+comment3.text=\r\n\ Method\ that\ returns\ the\ character's\ offensive\ points\r\n\ \r\n\ @return\ the\ character's\ offensive\ points\r\n
+numComments=4

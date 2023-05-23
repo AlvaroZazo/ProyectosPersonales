@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Order_Def_asc
+comment1.params=C1\ C2
+comment1.target=int\ compare(Character,\ Character)
+comment1.text=\r\n\ Method\ that\ compares\ two\ characters\ according\ to\ their\ Defensive\ \r\n\ points\ for\ their\ ascending\ ordering.\ If\ the\ values\ are\ the\ same,\ \r\n\ they\ are\ ordered\ in\ alphabetical\ order\r\n\r\n\ \r\n\ @param\ C1\ First\ character\ to\ be\ compared\r\n\ @param\ C2\ Second\ character\ to\ be\ compared\r\n\ @return\ a\ negative\ integer,\ zero,\ or\ a\ positive\ integer\ as\ the\ first\r\n\ Character\ is\ less\ than,\ equal\ to,\ or\ greater\ than\ the\ second.\r\n
+numComments=2

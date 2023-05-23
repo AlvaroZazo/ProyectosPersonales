@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OffensiveHawthorn
+comment0.text=\r\n\ The\ class\ represents\ the\ type\ of\ OffensiveHawthorn\ wand.\r\n\ \r\n\ @author\ (CAP)\ \r\n\ @version\ (1.3.5)\r\n
+comment1.params=Wand_name
+comment1.target=OffensiveHawthorn(java.lang.String)
+comment1.text=\r\n\ OffensiveHawthorn\ Class\ Builder\r\n\ \r\n\ @param\ Wand_name\ Wand\ name\r\n
+comment2.params=energy\ resistance\ attack
+comment2.target=double\ useOfensiveWand(double,\ double,\ double)
+comment2.text=\r\n\ method\ that\ returns\ the\ offending\ points\ of\ the\ wand\r\n\ \r\n\ @return\ the\ offending\ points\ of\ the\ wand\r\n
+comment3.params=energy\ resistance\ attack
+comment3.target=double\ useDefensiveWand(double,\ double,\ double)
+comment3.text=\r\n\ method\ that\ returns\ the\ wand's\ defensive\ points\r\n\ \r\n\ @return\ the\ wand's\ defensive\ points\r\n
+numComments=4

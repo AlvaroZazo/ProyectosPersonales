@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OffensiveCharacter
+comment0.text=\r\n\ This\ class\ represents\ a\ offensive\ type\ character.\r\n\ \r\n\ @author\ (CAP)\ \r\n\ @version\ (1.3.5)\r\n
+comment1.params=_name\ myWand\ myHouse
+comment1.target=OffensiveCharacter(java.lang.String,\ Wand,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Offensive\r\n\ \r\n\ @param\ _name\ Character\ name\r\n\ @param\ myWand\ Wand\ name\r\n\ @param\ myHouse\ Name\ of\ the\ house\ it\ belongs\ to\r\n
+numComments=2

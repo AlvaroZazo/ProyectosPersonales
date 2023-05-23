@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=InitData2
+comment1.params=
+comment1.target=InitData2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InitData\r\n
+comment2.params=
+comment2.target=void\ initData2()
+comment2.text=\r\n\ Method\ of\ loading\ wands\ and\ houses\r\n
+comment3.params=
+comment3.target=void\ dataWands()
+comment3.text=\r\n\ Method\ of\ loading\ the\ list\ of\ wands\r\n
+comment4.params=
+comment4.target=void\ dataGryffindor()
+comment4.text=\r\n\ Method\ of\ loading\ the\ house\ Gryffindor\ and\ its\ characters\r\n
+comment5.params=
+comment5.target=void\ dataHufflepuff()
+comment5.text=\r\n\ Method\ of\ loading\ the\ house\ Hufflepuff\ and\ its\ characters\r\n
+comment6.params=
+comment6.target=void\ dataSlytherin()
+comment6.text=\r\n\ Method\ of\ loading\ the\ house\ Slytherin\ and\ its\ characters\r\n
+numComments=7

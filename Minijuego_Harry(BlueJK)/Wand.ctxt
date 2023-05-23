@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Wand
+comment0.text=\r\n\ Interface\ Class\ of\ the\ Wand\ Object\r\n\ \r\n\ @author\ (CAP)\ \r\n\ @version\ (1.3.5)\r\n
+comment1.params=energy\ resistance\ attack
+comment1.target=double\ useOfensiveWand(double,\ double,\ double)
+comment2.params=energy\ resistance\ attack
+comment2.target=double\ useDefensiveWand(double,\ double,\ double)
+comment3.params=Wand_name
+comment3.target=void\ setWand_name(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getWand_name()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
